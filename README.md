@@ -10,7 +10,7 @@ To clone this repository to your local machine and set up the project, follow th
 1. Clone the repository using Git:
 
    ```
-   git clone https://github.com/ataanuuu/tradebacktest.git
+   git clone https://github.com/NEMANACH/FinSight_Web.git
    cd tradebacktest
    ```
 
